@@ -4,6 +4,9 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
+![choyc4643's github stats](https://github-readme-stats.vercel.app/api?username=choyc4643&show_icons=true&hide_border=true)
+
+
 <!--
 **choyc4643/choyc4643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
